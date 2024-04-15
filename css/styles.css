@@ -650,7 +650,7 @@ button {
   fill: #4d5ae5;
 }
 .comment-wrap {
-  margin-bottom: 12px;
+  margin-bottom: 16px;
 }
 .modal-comment {
   width: 100%;
@@ -718,14 +718,13 @@ button {
 }
 
 .check-text {
-  display: flex;
+  display: block;
   align-items: center;
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  gap: 8px;
 }
 
 .privacy-span {
